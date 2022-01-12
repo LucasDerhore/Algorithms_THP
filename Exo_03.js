@@ -19,3 +19,5 @@ const l = 19;
 
 console.log(compare(nums, k));
 console.log(compare(nums, l));
+
+// A gérer les doublons
